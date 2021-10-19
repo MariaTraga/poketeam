@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cute Stitch Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cute Stitch Regular'), url('Cute Stitch.woff') format('woff');
+}
+
+h1{
+    font-family: 'Cute Stitch Regular';
+    color:slateblue;
+    font-weight: 300;
+    -webkit-text-stroke: 1px whitesmoke;
+} 
