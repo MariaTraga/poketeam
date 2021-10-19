@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/poketeam/static/css/main.9ba378cc.chunk.css",
+    "main.js": "/poketeam/static/js/main.4bcf0d4a.chunk.js",
+    "main.js.map": "/poketeam/static/js/main.4bcf0d4a.chunk.js.map",
+    "runtime-main.js": "/poketeam/static/js/runtime-main.261a664b.js",
+    "runtime-main.js.map": "/poketeam/static/js/runtime-main.261a664b.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/poketeam/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9a2e2545.chunk.js": "/poketeam/static/js/2.9a2e2545.chunk.js",
+    "static/js/2.9a2e2545.chunk.js.map": "/poketeam/static/js/2.9a2e2545.chunk.js.map",
+    "static/js/3.534a484f.chunk.js": "/poketeam/static/js/3.534a484f.chunk.js",
+    "static/js/3.534a484f.chunk.js.map": "/poketeam/static/js/3.534a484f.chunk.js.map",
+    "index.html": "/poketeam/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/poketeam/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.9ba378cc.chunk.css.map": "/poketeam/static/css/main.9ba378cc.chunk.css.map",
+    "static/js/2.9a2e2545.chunk.js.LICENSE.txt": "/poketeam/static/js/2.9a2e2545.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/poketeam/static/media/Cute Stitch.6542a15e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.261a664b.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9a2e2545.chunk.js",
+    "static/css/main.9ba378cc.chunk.css",
+    "static/js/main.4bcf0d4a.chunk.js"
+  ]
+}
